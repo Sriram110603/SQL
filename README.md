@@ -1,1 +1,1 @@
-Library Management System using SQl
+Library Management System using SQL
